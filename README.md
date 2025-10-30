@@ -92,33 +92,33 @@ A continuación se muestra el prototipo físico del dispositivo y los resultados
 Hardware principal ensamblado, incluyendo la Raspberry Pi, los sensores y la carcasa impresa en 3D.
 
 <p align="center">
-  <img src="assets/prototipo_hardware.png" alt="Prototipo del dispositivo de uroflujometría" width="500">
+  <img src="assets/prototipo_hardware.png" alt="Prototipo del dispositivo de uroflujometría" width="300">
 </p>
 
 ### 2. Resultado: Curva de Flujo (Prueba de 250ml)
 Gráfica generada por el sistema que muestra la curva de flujo (Volumen vs. Tiempo) para una muestra de 250ml, simulando una micción.
 
 <p align="center">
-  <img src="assets/curva_flujo_250ml.png" alt="Curva de flujo de 250ml" width="300">
+  <img src="assets/curva_flujo_250ml.png" alt="Curva de flujo de 250ml" width="400">
 </p>
 
 ### 3. Resultado: Toma de Muestra
 Imagen de la muestra de orina capturada por la cámara del dispositivo antes del procesamiento.
 
 <p align="center">
-  <img src="assets/muestra_cruda.jpg" alt="Foto cruda de la muestra de orina" width="300">
+  <img src="assets/muestra_cruda.jpg" alt="Foto cruda de la muestra de orina" width="400">
 </p>
 
 ### 4. Resultado: Análisis Visual de Muestra
 Resultado del procesamiento de la imagen de la muestra, mostrando la detección de parámetros visuales (ej. color, turbidez).
 
 <p align="center">
-  <img src="assets/resultados_colab.jpg" alt="Resultados del análisis visual de la orina" width="300">
+  <img src="assets/resultados_colab.jpg" alt="Resultados del análisis visual de la orina" width="400">
 </p>
 
 ### 5. Resultado: Análisis de Datos (Colab)
 Captura de los resultados o métricas obtenidas durante el análisis de datos y calibración del sistema.
 
 <p align="center">
-  <img src="assets/analisis_visual_orina.png" alt="Resultados de pruebas en Colab" width="400">
+  <img src="assets/analisis_visual_orina.png" alt="Resultados de pruebas en Colab" width="500">
 </p>
