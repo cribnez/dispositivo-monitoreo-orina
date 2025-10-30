@@ -21,7 +21,6 @@ El objetivo de este proyecto es desarrollar un dispositivo electrónico de bajo 
 * `/app/`: Contiene el código fuente de la aplicación Python (`uroflow_app.py`) para la interfaz gráfica y el control de los pines GPIO.
 * `/assets/`: Imágenes de demostración, diagramas y capturas de pantalla para este README.
 * `/docs/`: Incluye el artículo de investigación (`CIMCYT2025_Dispositivo.pdf`) y otros documentos de soporte.
-* `/hardware/`: Contendrá los archivos de diseño de hardware, como esquemáticos (PCB) y modelos 3D (.stl) para la carcasa.
 
 ---
 
