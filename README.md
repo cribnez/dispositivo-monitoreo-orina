@@ -91,14 +91,20 @@ A continuación se muestra el prototipo físico del dispositivo y los resultados
 ### 1. Prototipo Físico
 Hardware principal ensamblado, incluyendo la Raspberry Pi, los sensores y la carcasa impresa en 3D.
 
+<p align="center">
 <img src="assets/prototipo_hardware.png" alt="Prototipo del dispositivo de uroflujometría" width="300">
+</p>
 
 ### 2. Curva de Flujo (Prueba de 250ml)
 Gráfica generada por el sistema que muestra la curva de flujo (Volumen vs. Tiempo) para una muestra de 250ml, simulando una micción.
 
+<p align="center">
 <img src="assets/curva_flujo_250ml.png" alt="Curva de flujo de 250ml" width="300">
+</p>
 
 ### 3. Análisis de Resultados
 Captura de los resultados o métricas obtenidas durante el análisis de datos y calibración del sistema (ej. en Google Colab).
 
+<p align="center">
 <img src="assets/resultados_colab.jpg" alt="Resultados de pruebas en Colab" width="300">
+</p>
