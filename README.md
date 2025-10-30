@@ -1,4 +1,4 @@
-# 🔬💧 Dispositivo de Monitoreo No Invasivo de Parámetros en Orina (ArtroView)
+# 🔬💧 Dispositivo de Monitoreo No Invasivo de Parámetros en Orina
 
 Este repositorio contiene el código fuente (firmware) y los materiales de diseño para el **Dispositivo Electrónico para el Monitoreo No Invasivo de Parámetros Físicos y Visuales en Orina**, un proyecto de investigación y desarrollo de la Universidad Politécnica de Chiapas.
 
