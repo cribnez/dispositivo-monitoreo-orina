@@ -82,8 +82,21 @@ La aplicación iniciará la interfaz gráfica de Tkinter y comenzará a monitore
 
 ---
 
-## 💻 Vista Previa de la Interfaz Gráfica (GUI)
+## 🔬 Prototipo y Resultados
 
-La interfaz gráfica (`uroflow_app.py`) permite visualizar en tiempo real los datos recolectados y su evolución en una gráfica.
+A continuación se muestra el prototipo físico del dispositivo y los resultados obtenidos durante las pruebas.
 
-![Interfaz Gráfica del Monitoreo](assets/gui_preview.png)
+### 1. Prototipo Físico
+Hardware principal ensamblado, incluyendo la Raspberry Pi, los sensores y la carcasa impresa en 3D.
+
+![Prototipo del dispositivo de uroflujometría](assets/prototipo_hardware.jpg)
+
+### 2. Curva de Flujo (Prueba de 250ml)
+Gráfica generada por el sistema que muestra la curva de flujo (Volumen vs. Tiempo) para una muestra de 250ml, simulando una micción.
+
+![Curva de flujo de 250ml](assets/curva_flujo_250ml.png)
+
+### 3. Análisis de Resultados
+Captura de los resultados o métricas obtenidas durante el análisis de datos y calibración del sistema (ej. en Google Colab).
+
+![Resultados de pruebas en Colab](assets/resultados_colab.jpg)
