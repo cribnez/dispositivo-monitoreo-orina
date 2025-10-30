@@ -37,12 +37,6 @@ El prototipo actual utiliza una **Raspberry Pi** como controlador principal para
 * **Cámara:** Cámara USB o módulo de cámara de Raspberry Pi (para captura de imagen).
 * **Pantalla:** Pantalla táctil oficial de Raspberry Pi o monitor conectado por HDMI (para la GUI de Tkinter).
 
-### 📦 Diseño de Carcasa (Impresión 3D)
-
-El dispositivo está alojado en una carcasa diseñada para impresión 3D. Los archivos .stl (si los tienes) se encontrarán en la carpeta `/hardware/`.
-
-![Diseño 3D de la Carcasa](assets/carcasa_3d.png)
-
 ---
 
 ## 💿 Configuración y Ejecución
