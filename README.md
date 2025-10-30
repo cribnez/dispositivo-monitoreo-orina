@@ -104,19 +104,11 @@ Gráfica generada por el sistema que muestra la curva de flujo (Volumen vs. Tiem
 
 ### 3. Resultado: Toma de Muestra
 Imagen de la muestra de orina capturada por la cámara del dispositivo antes del procesamiento.
-
-<p align="center">
-  <img src="assets/muestra_cruda.jpg" alt="Foto cruda de la muestra de orina" width="400">
-</p>
-
-### 4. Resultado: Análisis Visual de Muestra
-Resultado del procesamiento de la imagen de la muestra, mostrando la detección de parámetros visuales (ej. color, turbidez).
-
 <p align="center">
   <img src="assets/resultados_colab.jpg" alt="Resultados del análisis visual de la orina" width="400">
 </p>
 
-### 5. Resultado: Análisis de Datos (Colab)
+### 4. Resultado: Análisis de Datos (Colab)
 Captura de los resultados o métricas obtenidas durante el análisis de datos y calibración del sistema.
 
 <p align="center">
