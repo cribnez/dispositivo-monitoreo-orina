@@ -106,12 +106,12 @@ Gráfica generada por el sistema que muestra la curva de flujo (Volumen vs. Tiem
 Resultado del procesamiento de la imagen de la muestra de orina, mostrando la detección de parámetros visuales (ej. color, turbidez).
 
 <p align="center">
-  <img src="assets/analisis_visual_orina.png" alt="Resultados del análisis visual de la orina" width="300">
+  <img src="assets/resultados_colab.png" alt="Resultados del análisis visual de la orina" width="300">
 </p>
 
 ### 4. Resultado: Análisis de Datos (Colab)
 Captura de los resultados o métricas obtenidas durante el análisis de datos y calibración del sistema.
 
 <p align="center">
-  <img src="assets/resultados_colab.jpg" alt="Resultados de pruebas en Colab" width="300">
+  <img src="assets/analisis_visual_orina.png" alt="Resultados de pruebas en Colab" width="400">
 </p>
