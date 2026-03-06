@@ -107,3 +107,21 @@ Captura de los resultados o métricas obtenidas durante el análisis de datos y 
 <p align="center">
   <img src="assets/analisis_visual_orina.png" alt="Resultados de pruebas en Colab" width="500">
 </p>
+
+## 📄 Publicación Académica
+
+Este proyecto ha sido documentado en la revista *Tecnología Digital*.  
+El documento completo también se encuentra disponible en la carpeta `docs` de este repositorio:
+
+<p align="center">
+  <a href="docs/articulo_orina_iot.pdf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Artículo en PDF" width="120">
+    <br><em>Desarrollo de un dispositivo electrónico para el monitoreo no invasivo de parámetros físicos y visuales en orina</em>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.revistatecnologiadigital.com/pdf/15_03_002_desarrollo_dispositivo_monitoreo_no_invasivo_parametros_orina.pdf" target="_blank">
+    📎 <em>Acceso al artículo original en la revista Tecnología Digital</em>
+  </a>
+</p>
